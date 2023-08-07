@@ -266,7 +266,7 @@ a {
     }
 
     .name{
-        width: 100%;
+        width: 500px;
         font-size: 1.85em;
         position: absolute;
         top: 60px;
