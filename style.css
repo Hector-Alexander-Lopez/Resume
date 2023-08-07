@@ -251,7 +251,7 @@ a {
 
     .name{
         width: 100%;
-        font-size: 1.85em;
+        font-size: 1.75em;
         position: absolute;
         top: 60px;
         left: 90%;
@@ -259,7 +259,7 @@ a {
     }
 
     .profession{
-        font-size: 1em;
+        font-size: .95em;
     }
 }
 
