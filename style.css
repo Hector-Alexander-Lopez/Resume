@@ -219,11 +219,15 @@ a {
 
     .name{
         width: 60%;
-        font-size: 2em;
+        font-size: 1.82em;
         position: absolute;
-        top: 55px;
+        top: 60px;
         left: 50%;
         transform: translate(-50%);
+    }
+
+    .profession{
+        font-size: 1em;
     }
 
     .main-section{
