@@ -218,8 +218,8 @@ a {
     }
 
     .name{
-        width: 60%;
-        font-size: 1.82em;
+        width: 70%;
+        font-size: 1.9em;
         position: absolute;
         top: 60px;
         left: 50%;
@@ -255,7 +255,7 @@ a {
 
     .name{
         width: 100%;
-        font-size: 1.75em;
+        font-size: 1.85em;
         position: absolute;
         top: 60px;
         left: 90%;
