@@ -204,6 +204,10 @@ a {
     .job-3 {
         display: none;
     }
+
+    .github-link{
+        font-size: .8em;
+    }
 }
 
 
