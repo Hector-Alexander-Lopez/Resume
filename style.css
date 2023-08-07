@@ -241,7 +241,7 @@ a {
 
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 625px) {
 
     .container{
         width: 100%;
