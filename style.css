@@ -199,3 +199,34 @@ a{
     justify-content: center;
     box-shadow: 0 1px 10px 0 rgba(88, 88, 88, 0.6);
 }
+
+@media screen and (max-width: 768px) {
+    .name {
+        top: 20px;
+        width: 90%; 
+        font-size: 1.2em; 
+    }
+}
+
+
+@media screen and (max-width: 576px) {
+    .name {
+        top: 15px;
+        width: 100%; 
+        font-size: 1.1em; 
+    }
+    .page {
+        padding: 60px 25px 0; 
+        margin: 10px; 
+    }
+    .main-section,
+    .small-section {
+        width: 100%; 
+    }
+    .profession {
+        font-size: 1em; 
+    }
+    h1 {
+        font-size: 2em; 
+    }
+}
