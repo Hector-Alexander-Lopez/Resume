@@ -201,6 +201,12 @@ a {
     box-shadow: 0 1px 10px 0 rgba(88, 88, 88, 0.6);
 }
 
+@media screen and (max-width: 935px){
+    .job-3 {
+        display: none;
+    }
+}
+
 
 @media screen and (max-width: 768px) {
 
