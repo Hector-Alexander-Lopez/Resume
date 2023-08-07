@@ -192,7 +192,6 @@ a {
     justify-content: center;
     flex-direction: column;
     padding-bottom: 20px;
-    margin-bottom: 20px;
 }
 
 .projects > h2 {
@@ -243,6 +242,11 @@ a {
 
     .small-section{
         width: 45%;
+    }
+
+    .project-title{
+        padding-top: 0;
+        margin-top: 0;
     }
 
     .job-3{
