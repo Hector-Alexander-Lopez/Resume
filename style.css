@@ -267,7 +267,7 @@ a {
 
     .name{
         width: 500px;
-        font-size: 1.85em;
+        font-size: 1.9em;
         position: absolute;
         top: 60px;
         left: 90%;
@@ -281,8 +281,8 @@ a {
 
 @media screen and (max-width: 390px){
     .name{
-        width: 100%;
-        font-size: 1.55em;
+        width: 450px;
+        font-size: 1.9em;
         position: absolute;
         top: 60px;
         left: 100%;
